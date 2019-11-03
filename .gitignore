@@ -1,0 +1,8 @@
+
+target/*
+.idea/*
+
+.idea/artifacts/javaOrc.xml
+.idea/compiler.xml
+.idea/misc.xml
+.idea/artifacts/javaOrc.xml
